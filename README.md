@@ -1,7 +1,7 @@
 ### Welcome
 
-<a href="https://github.com/r3ap3rpy/algorithms/actions?query=workflow%3ATest+branch%3Amain" target="_blank">
-    <img src="https://github.com/r3ap3rpy/algorithms/actions/workflows/test.yml/badge.svg?branch=master" alt="Test">
+<a href="https://github.com/r3ap3rpy/algorithms/actions?query=workflow%3ABuild+branch%3Amain+event%3Apush" target="_blank">
+    <img src="https://github.com/r3ap3rpy/algorithms/actions/workflows/build.yml/badge.svg?branch=main&event=push" alt="Build">
 </a>
 
 I found this neat little python modul called [algorithms](https://pypi.org/project/algorithms/) and thought I would rewrite it in Rust.
