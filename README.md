@@ -10,7 +10,8 @@
     <img src="https://github.com/r3ap3rpy/algorithms/actions/workflows/publish.yml/badge.svg?branch=main" alt="Publish">
 </a>
 </p>
-I found this neat little python modul called [algorithms](https://pypi.org/project/algorithms/) and thought I would rewrite it in Rust.
+
+I found this neat little python modul called [algorithms](https://pypi.org/project/algorithms) and thought I would rewrite it in Rust.
 
 
 The official github repository can be found here at [algorithms](https://github.com/r3ap3rpy/algorithms.git).
