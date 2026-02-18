@@ -1,4 +1,4 @@
-use algorithms::sorting::bead_sort;
+use algorithmz::sorting::bead_sort;
 
 #[test]
 fn test_bead_sort_negative_error(){
