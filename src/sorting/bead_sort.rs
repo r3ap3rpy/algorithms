@@ -5,7 +5,7 @@
 /// # Examples
 ///
 /// ```
-/// let result = algorithms::sorting::bead_sort::bead_sort(&[1,3,2,5,4]).unwrap();
+/// let result = algorithmz::sorting::bead_sort(&[1,3,2,5,4]).unwrap();
 /// assert_eq!(result, [1,2,3,4,5]);
 /// ```
 pub fn bead_sort(list: &[i32]) -> Result<Vec<usize>, String> {
