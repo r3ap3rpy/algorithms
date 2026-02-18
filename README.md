@@ -1,6 +1,6 @@
 ### Welcome
 
-<a href="https://github.com/r3ap3rpy/algorithms/actions?query=workflow%3ABuild+branch%3Amain+event%3Apush" target="_blank">
+<a href="https://github.com/r3ap3rpy/algorithms/actions?query=workflow%3ATest+event%3Apush+branch%3Amaster" target="_blank">
     <img src="https://github.com/r3ap3rpy/algorithms/actions/workflows/build.yml/badge.svg?event=push&branch=main" alt="Build">
 </a>
 
