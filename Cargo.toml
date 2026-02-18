@@ -1,0 +1,8 @@
+[package]
+name = "algorithms"
+version = "0.1.1"
+edition = "2024"
+readme = "README.md"
+authors = ["Szabó Dániel Ernő <r3ap3rpy@gmail.com>"]
+description = "This is the corresponding implemenation of the python module of the same name."
+[dependencies]
