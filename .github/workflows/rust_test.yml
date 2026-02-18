@@ -1,0 +1,19 @@
+name: Rust test
+on:
+  workflow_dispatch: 
+  workflow_run:
+    workflows: ["Rust build"]
+    types:
+      - completed 
+
+env:
+  CARGO_TERM_COLOR: always
+jobs:
+  test:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}  # only if A succeeded
+    runs-on: ubuntu-latest
+    needs: build 
+    steps:
+    - uses: actions/checkout@v4
+    - name: Run tests
+      run: cargo test --verbose
