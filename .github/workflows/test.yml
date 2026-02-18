@@ -3,7 +3,7 @@ name: Test
 on:
   workflow_dispatch: {}
   workflow_run:
-    workflows: ["Rust build"]
+    workflows: ["Build"]
     types:
       - completed
 
