@@ -4,6 +4,7 @@ version = "0.1.2"
 edition = "2024"
 readme = "README.md"
 license = "MIT"
+documentation = "https://docs.rs/algorithmz/latest/algorithmz/"
 authors = ["Szabó Dániel Ernő <r3ap3rpy@gmail.com>"]
 description = "This is the corresponding implemenation of the python module of the same name."
 [dependencies]
