@@ -3,8 +3,10 @@ name = "algorithmz"
 version = "0.1.3"
 edition = "2024"
 readme = "README.md"
-license = "MIT"
+license = "MIT OR Apache"
 documentation = "https://docs.rs/algorithmz/latest/algorithmz/"
 authors = ["Szabó Dániel Ernő <r3ap3rpy@gmail.com>"]
 description = "This is the corresponding implemenation of the python module of the same name."
+repository = "https://github.com/r3ap3rpy/algorithms"
+keywords = ["mathemathics","algorithms"]
 [dependencies]
