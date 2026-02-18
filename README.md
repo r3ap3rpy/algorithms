@@ -1,7 +1,7 @@
 ### Welcome
 [![Rust build](https://github.com/r3ap3rpy/algorithms/actions/workflows/rust_build.yml/badge.svg?branch=main)](https://github.com/r3ap3rpy/algorithms/actions/workflows/rust_build.yml/badge.svg?branch=main)
 [![Rust test](https://github.com/r3ap3rpy/algorithms/actions/workflows/rust_test.yml/badge.svg?branch=main)](https://github.com/r3ap3rpy/algorithms/actions/workflows/rust_test.yml/badge.svg?branch=main)
-[![Rust publish](https://github.com/r3ap3rpy/algorithms/actions/workflows/rust_publish.yml/badge.svg?branch=main](https://github.com/r3ap3rpy/algorithms/actions/workflows/rust_publish.yml/badge.svg?branch=main)
+[![Rust publish](https://github.com/r3ap3rpy/algorithms/actions/workflows/rust_publish.yml/badge.svg?branch=main)](https://github.com/r3ap3rpy/algorithms/actions/workflows/rust_publish.yml/badge.svg?branch=main)
 
 I found this neat little python modul called [algorithms](https://pypi.org/project/algorithms/) and thought I would rewrite it in Rust.
 
