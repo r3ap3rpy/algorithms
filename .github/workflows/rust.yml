@@ -13,12 +13,14 @@ jobs:
       run: cargo build --lib --verbose
   test:
     runs-on: ubuntu-latest
+    needs: build 
     steps:
     - uses: actions/checkout@v4
     - name: Run tests
       run: cargo test --verbose
   publish:
     runs-on: ubunut-latest
+    needs: publish
     steps:
     - uses: actions/checkout@v4
     - name: Crates.io login
