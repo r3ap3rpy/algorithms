@@ -4,10 +4,10 @@
     <img src="https://github.com/r3ap3rpy/algorithms/actions/workflows/build.yml/badge.svg?event=push&branch=main" alt="Build">
 </a>
     <a href="https://github.com/r3ap3rpy/algorithms/actions?query=workflow%3ATest+event%3Apush+branch%3Amaster" target="_blank">
-    <img src="https://github.com/r3ap3rpy/algorithms/actions/workflows/test.yml/badge.svg?event=push&branch=main" alt="Test">
+    <img src="https://github.com/r3ap3rpy/algorithms/actions/workflows/test.yml/badge.svg?branch=main" alt="Test">
 </a>
         <a href="https://github.com/r3ap3rpy/algorithms/actions?query=workflow%3APublish+event%3Apush+branch%3Amaster" target="_blank">
-    <img src="https://github.com/r3ap3rpy/algorithms/actions/workflows/publish.yml/badge.svg?event=push&branch=main" alt="Publish">
+    <img src="https://github.com/r3ap3rpy/algorithms/actions/workflows/publish.yml/badge.svg?branch=main" alt="Publish">
 </a>
 </p>
 I found this neat little python modul called [algorithms](https://pypi.org/project/algorithms/) and thought I would rewrite it in Rust.
