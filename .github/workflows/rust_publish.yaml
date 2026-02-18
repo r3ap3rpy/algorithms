@@ -11,12 +11,14 @@ env:
   CARGO_TERM_COLOR: always
 
 jobs:
-  test:
+  publish:
     runs-on: ubuntu-latest
     # Only run if triggered by workflow_run AND Workflow A succeeded
     if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     steps:
     - uses: actions/checkout@v4
+    - name: Build
+      run: cargo build --lib --verbose
     - name: Crates.io login
       run: echo "${{ secrets.CRATE_TOKEN }}" | cargo login 
     - name: Publish to crates.io
