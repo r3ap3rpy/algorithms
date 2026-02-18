@@ -1,6 +1,6 @@
 ### Welcome
 
-[![Rust publish](https://github.com/fastapi/fastapi/actions/workflows/test.yml/badge.svg?event=push&branch=master)](https://github.com/r3ap3rpy/algorithms/actions/workflows/rust_publish.yml)
+[![Rust test](https://github.com/r3ap3rpy/algorithms/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/r3ap3rpy/algorithms/actions/workflows/rust_test.yml)
 
 I found this neat little python modul called [algorithms](https://pypi.org/project/algorithms/) and thought I would rewrite it in Rust.
 
