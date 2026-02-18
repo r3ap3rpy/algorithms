@@ -20,7 +20,7 @@ jobs:
       run: cargo test --verbose
   publish:
     runs-on: ubunut-latest
-    needs: publish
+    needs: test
     steps:
     - uses: actions/checkout@v4
     - name: Crates.io login
