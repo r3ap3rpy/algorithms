@@ -17,6 +17,14 @@ cargo test
 cargo install --path .
 ```
 
+If you want to use it in your project use the following commands. It is published on [crates.io](https://crates.io/crates/algorithmz)
+
+``` bash
+cargo new <myproject>
+cd myproject
+cargo add algorithmz
+```
+
 > [!WARNING]
 > This is still in progress.
 
