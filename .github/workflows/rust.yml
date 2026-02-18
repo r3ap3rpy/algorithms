@@ -11,8 +11,16 @@ jobs:
     - uses: actions/checkout@v4
     - name: Build
       run: cargo build --lib --verbose
+  test:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
     - name: Run tests
       run: cargo test --verbose
+  publish:
+    runs-on: ubunut-latest
+    steps:
+    - uses: actions/checkout@v4
     - name: Crates.io login
       run: echo "${{ secrets.CRATE_TOKEN }}" | cargo login 
     - name: Publish to crates.io
