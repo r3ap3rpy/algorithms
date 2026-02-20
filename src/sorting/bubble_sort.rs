@@ -4,9 +4,21 @@
 ///
 /// # Examples
 ///
+/// Basic usage:
 /// ```
 /// let result = algorithmz::sorting::bubble_sort(&[2,1,4,3,5]).unwrap();
 /// assert_eq!(result, [1,2,3,4,5]);
+/// ```
+///
+/// With match statement:
+///
+/// ```
+/// use algorithmz::sorting::bubble_sort;
+/// let my_list = [1,3,2,5,4];
+/// match bubble_sort(&my_list) {
+///     Err(e) => eprintln!("The error was: {}", e),
+///     Ok(nums) => println!("The result was: {:?}", nums),
+/// }
 /// ```
 pub fn bubble_sort(list: &[i32]) -> Result<Vec<i32>,String> {
     if list.is_empty() {

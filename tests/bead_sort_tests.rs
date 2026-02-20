@@ -15,3 +15,8 @@ fn test_bead_sort() {
     let result = bead_sort(&[1,3,2,5,4]).unwrap();
     assert_eq!(result,[1,2,3,4,5]);
 }
+#[test]
+fn test_bead_sort_already_sorted() {
+    let result = bead_sort(&[1,2,3,4,5]).unwrap();
+    assert_eq!(result,[1,2,3,4,5]);
+}

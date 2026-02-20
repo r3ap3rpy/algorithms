@@ -33,6 +33,12 @@ cd myproject
 cargo add algorithmz
 ```
 
+##### Sorting
+
+The following algorithms are implemented:
+- bubble sort
+- bead sort 
+
 > [!WARNING]
 > This is still in progress.
 

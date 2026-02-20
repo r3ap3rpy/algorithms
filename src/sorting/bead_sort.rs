@@ -3,10 +3,21 @@
 /// This function takes a list as reference and returns a `Vec<usize>` with the results!
 ///
 /// # Examples
-///
+/// 
+/// Basic usage:
 /// ```
 /// let result = algorithmz::sorting::bead_sort(&[1,3,2,5,4]).unwrap();
 /// assert_eq!(result, [1,2,3,4,5]);
+/// ```
+///
+/// With match statement:
+/// ``` 
+/// use algorithmz::sorting::bead_sort;
+/// let my_list = [2,1,4,3,6,5];
+/// match bead_sort(&my_list) {
+///     Ok(nums) => println!("The result was: {:?}", nums),
+///     Err(e) => eprintln!("The error was: {}",e),
+/// }
 /// ```
 pub fn bead_sort(list: &[i32]) -> Result<Vec<usize>, String> {
     if list.is_empty() {
