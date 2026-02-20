@@ -39,6 +39,11 @@ The following algorithms are implemented:
 - bubble sort
 - bead sort 
 
+##### Arrays
+
+The following algorithms are implemented:
+- flatten
+
 > [!WARNING]
 > This is still in progress.
 

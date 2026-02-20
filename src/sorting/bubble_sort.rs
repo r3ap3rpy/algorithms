@@ -1,6 +1,6 @@
 /// Returns the bubble sorted version of the input
 ///
-/// This function takes a list as a reference and returns either the sorted list as a `Vec<usize>` or an error.
+/// This function takes a list as a reference and returns either the sorted list as a `Vec<i32>` or an error.
 ///
 /// # Examples
 ///
