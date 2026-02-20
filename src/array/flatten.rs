@@ -43,8 +43,8 @@ pub fn flatten(input: &[Nested]) -> Result<Vec<usize>, String> {
 /// Nested lists:
 /// ```
 /// use algorithmz::array::Nested;
-/// let input =
-/// Nested::List(vec![Nested::Item(10),Nested::List(vec![Nested::Item(20),Nested::Item(30)])]);
+/// let input = Nested::List(vec![Nested::Item(10),Nested::List(vec![Nested::Item(20),Nested::Item(30)])]);
+/// ```
 #[derive(Debug, Clone)]
 pub enum Nested {
     /// Single item
