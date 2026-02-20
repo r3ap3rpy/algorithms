@@ -1,7 +1,7 @@
-/// Returns the flattened version of the input array.
+use std::fmt::Debug;
+/// Returns the flattened version of the input.
 ///
-/// This function takes an array and returns the flattened version of it
-///
+/// Takes a list of nested items as a reference and returns the flattened version of it.
 /// Basic usage:
 /// ```
 /// use algorithmz::array::{Nested, flatten};
@@ -19,18 +19,6 @@
 ///     Ok(n) => println!("The flattened list: {:?}",n),
 /// }
 /// ```
-use std::fmt::Debug;
-
-/// The enum representing a multi dimensional array
-#[derive(Debug, Clone)]
-pub enum Nested {
-    /// Single item
-    Item(usize),
-    /// Nested items
-    List(Vec<Nested>),
-}
-
-/// The main flatten function which will be exposed
 pub fn flatten(input: &[Nested]) -> Result<Vec<usize>, String> {
     if input.is_empty() {
         return Err("Input slice cannot be empty".to_string());
@@ -40,6 +28,31 @@ pub fn flatten(input: &[Nested]) -> Result<Vec<usize>, String> {
     flatten_inner(input, &mut output);
     Ok(output)
 }
+
+
+/// The enum representing a multi dimensional array
+///
+/// # Examples
+///
+/// Simple nested list of values
+/// ```
+/// use algorithmz::array::Nested;
+/// let input = vec![Nested::Item(10),Nested::Item(20)];
+/// ```
+///
+/// Nested lists:
+/// ```
+/// use algorithmz::array::Nested;
+/// let input =
+/// Nested::List(vec![Nested::Item(10),Nested::List(vec![Nested::Item(20),Nested::Item(30)])]);
+#[derive(Debug, Clone)]
+pub enum Nested {
+    /// Single item
+    Item(usize),
+    /// Nested items
+    List(Vec<Nested>),
+}
+
 /// The private helper function 
 fn flatten_inner(input: &[Nested], output: &mut Vec<usize>) {
     for element in input {

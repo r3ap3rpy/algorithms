@@ -11,7 +11,6 @@
 /// ```
 ///
 /// With match statement:
-///
 /// ```
 /// use algorithmz::sorting::bubble_sort;
 /// let my_list = [1,3,2,5,4];
