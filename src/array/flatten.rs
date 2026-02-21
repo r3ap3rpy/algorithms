@@ -2,6 +2,7 @@ use std::fmt::Debug;
 /// Returns the flattened version of the input.
 ///
 /// Takes a list of nested items as a reference and returns the flattened version of it.
+///
 /// Basic usage:
 /// ```
 /// use algorithmz::array::{Nested, flatten};

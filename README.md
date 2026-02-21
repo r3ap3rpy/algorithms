@@ -38,6 +38,7 @@ cargo add algorithmz
 The following algorithms are implemented:
 - bubble sort
 - bead sort 
+- heap sort
 
 ##### Arrays
 
