@@ -39,6 +39,7 @@ The following algorithms are implemented:
 - bubble sort
 - bead sort 
 - heap sort
+- counting sort 
 
 ##### Arrays
 
