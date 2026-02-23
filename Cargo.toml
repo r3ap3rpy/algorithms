@@ -8,5 +8,5 @@ documentation = "https://docs.rs/algorithmz/0.2.3/algorithmz/"
 authors = ["Szabó Dániel Ernő <r3ap3rpy@gmail.com>"]
 description = "This is the corresponding implemenation of the python module of the same name."
 repository = "https://github.com/r3ap3rpy/algorithms"
-keywords = ["algorithms","data_structures","dynamic programming","searching","streaming"y]
+keywords = ["algorithms","data_structures","dynamic programming","searching","streaming"]
 [dependencies]
