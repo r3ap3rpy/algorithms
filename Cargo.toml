@@ -1,12 +1,12 @@
 [package]
 name = "algorithmz"
-version = "0.2.2"
+version = "0.2.3"
 edition = "2024"
 readme = "README.md"
 license = "MIT OR Apache-2.0"
-documentation = "https://docs.rs/algorithmz/0.2.2/algorithmz/"
+documentation = "https://docs.rs/algorithmz/0.2.3/algorithmz/"
 authors = ["Szabó Dániel Ernő <r3ap3rpy@gmail.com>"]
 description = "This is the corresponding implemenation of the python module of the same name."
 repository = "https://github.com/r3ap3rpy/algorithms"
-keywords = ["mathemathics","algorithms"]
+keywords = ["mathemathics","algorithms","array","backtracking","bit_manipulation","common","compression","data_structures","dynamic programming","graph","greedy","heap","linked_list","map","math","matrix","queue","searching","set","sorting","stack","streaming","string","tree"]
 [dependencies]
