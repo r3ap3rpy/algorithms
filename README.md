@@ -40,6 +40,7 @@ The following algorithms are implemented:
 - bead sort 
 - heap sort
 - counting sort 
+- cycle sort
 
 ##### Arrays
 

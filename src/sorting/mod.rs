@@ -13,3 +13,6 @@ pub use insertion_sort::insertion_sort;
 /// The `counting_sort` algorithm
 pub mod counting_sort;
 pub use counting_sort::counting_sort;
+/// The `cycle_sort` algorithm
+pub mod cycle_sort;
+pub use cycle_sort::cycle_sort;
