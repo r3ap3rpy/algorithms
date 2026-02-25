@@ -16,3 +16,6 @@ pub use counting_sort::counting_sort;
 /// The `cycle_sort` algorithm
 pub mod cycle_sort;
 pub use cycle_sort::cycle_sort;
+/// The `shell_sort` algorithm
+pub mod shell_sort;
+pub use shell_sort::shell_sort;

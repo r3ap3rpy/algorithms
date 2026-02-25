@@ -41,6 +41,7 @@ The following algorithms are implemented:
 - heap sort
 - counting sort 
 - cycle sort
+- shell sort
 
 ##### Arrays
 
