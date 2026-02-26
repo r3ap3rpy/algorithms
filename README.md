@@ -42,6 +42,7 @@ The following algorithms are implemented:
 - counting sort 
 - cycle sort
 - shell sort
+- quick sort
 
 ##### Arrays
 

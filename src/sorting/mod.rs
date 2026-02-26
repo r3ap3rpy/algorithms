@@ -19,3 +19,6 @@ pub use cycle_sort::cycle_sort;
 /// The `shell_sort` algorithm
 pub mod shell_sort;
 pub use shell_sort::shell_sort;
+/// The `quick_sort` algorithm
+pub mod quick_sort;
+pub use quick_sort::quick_sort;
