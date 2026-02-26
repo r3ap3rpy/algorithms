@@ -43,6 +43,7 @@ The following algorithms are implemented:
 - cycle sort
 - shell sort
 - quick sort
+- bitonic sort
 
 ##### Arrays
 

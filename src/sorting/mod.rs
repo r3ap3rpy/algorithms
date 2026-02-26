@@ -22,3 +22,6 @@ pub use shell_sort::shell_sort;
 /// The `quick_sort` algorithm
 pub mod quick_sort;
 pub use quick_sort::quick_sort;
+/// The `bitonic_sort` algorithm
+pub mod bitonic_sort;
+pub use bitonic_sort::bitonic_sort;
