@@ -44,6 +44,7 @@ The following algorithms are implemented:
 - shell sort
 - quick sort
 - bitonic sort
+- bogo sort
 
 ##### Arrays
 
