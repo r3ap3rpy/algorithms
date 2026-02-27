@@ -28,3 +28,6 @@ pub use bitonic_sort::bitonic_sort;
 /// The `bogo_sort` algorithm
 pub mod bogo_sort;
 pub use bogo_sort::bogo_sort;
+/// The `bucket_sort` algorithm
+pub mod bucket_sort;
+pub use bucket_sort::bucket_sort;

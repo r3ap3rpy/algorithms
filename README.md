@@ -45,6 +45,7 @@ The following algorithms are implemented:
 - quick sort
 - bitonic sort
 - bogo sort
+- bucket sort
 
 ##### Arrays
 
