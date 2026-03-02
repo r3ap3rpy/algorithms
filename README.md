@@ -49,6 +49,7 @@ The following algorithms are implemented:
 - cocktail shaker sort
 - comb sort
 - exchange sort
+- gnome sort
 
 ##### Arrays
 

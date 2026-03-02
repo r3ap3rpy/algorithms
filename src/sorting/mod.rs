@@ -40,3 +40,6 @@ pub use comb_sort::comb_sort;
 /// The `exchange_sort` algorithm
 pub mod exchange_sort;
 pub use exchange_sort::exchange_sort;
+/// The `gnome_sort` algorithm
+pub mod gnome_sort;
+pub use gnome_sort::gnome_sort;
