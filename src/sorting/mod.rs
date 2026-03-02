@@ -37,3 +37,6 @@ pub use cocktail_shaker_sort::cocktail_shaker_sort;
 /// The `comb_sort` algorithm
 pub mod comb_sort;
 pub use comb_sort::comb_sort;
+/// The `exchange_sort` algorithm
+pub mod exchange_sort;
+pub use exchange_sort::exchange_sort;

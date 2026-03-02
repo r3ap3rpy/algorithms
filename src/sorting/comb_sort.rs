@@ -3,6 +3,7 @@
 /// Takes a list as reference and returns `Vec<i32>` or an error string.
 ///
 /// # Examples
+///
 /// Basic usage:
 /// ```
 /// let result = algorithmz::sorting::comb_sort(&[2,1,3,5,4,7,6,8]).unwrap();

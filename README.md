@@ -48,6 +48,7 @@ The following algorithms are implemented:
 - bucket sort
 - cocktail shaker sort
 - comb sort
+- exchange sort
 
 ##### Arrays
 
