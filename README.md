@@ -50,6 +50,7 @@ The following algorithms are implemented:
 - comb sort
 - exchange sort
 - gnome sort
+- heap sort
 
 ##### Arrays
 

@@ -43,3 +43,6 @@ pub use exchange_sort::exchange_sort;
 /// The `gnome_sort` algorithm
 pub mod gnome_sort;
 pub use gnome_sort::gnome_sort;
+/// The `heap_sort` algorithm
+pub mod heap_sort;
+pub use heap_sort::heap_sort;
