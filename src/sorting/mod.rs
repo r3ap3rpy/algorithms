@@ -34,3 +34,6 @@ pub use bucket_sort::bucket_sort;
 /// The `cocktail_shaker_sort` algorithm
 pub mod cocktail_shaker_sort;
 pub use cocktail_shaker_sort::cocktail_shaker_sort;
+/// The `comb_sort` algorithm
+pub mod comb_sort;
+pub use comb_sort::comb_sort;

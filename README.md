@@ -47,6 +47,7 @@ The following algorithms are implemented:
 - bogo sort
 - bucket sort
 - cocktail shaker sort
+- comb sort
 
 ##### Arrays
 
