@@ -61,3 +61,6 @@ pub use pigeonhole_sort::pigeonhole_sort;
 /// The `radix_sort` algorithm
 pub mod radix_sort;
 pub use radix_sort::radix_sort;
+/// The `selection_sort` algorithm
+pub mod selection_sort;
+pub use selection_sort::selection_sort;

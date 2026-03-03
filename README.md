@@ -56,6 +56,7 @@ The following algorithms are implemented:
 - pancake sort
 - pigeonhole sort
 - radix sort
+- selection sort
 
 ##### Arrays
 
