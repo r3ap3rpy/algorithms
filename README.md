@@ -58,6 +58,7 @@ The following algorithms are implemented:
 - radix sort
 - selection sort
 - color sort
+- wiggle sort
 
 ##### Arrays
 

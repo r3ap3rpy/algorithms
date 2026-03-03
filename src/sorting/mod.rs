@@ -67,3 +67,6 @@ pub use selection_sort::selection_sort;
 /// The `color_sort` algorithm
 pub mod color_sort;
 pub use color_sort::color_sort;
+/// The `wiggle_sort` algorithm
+pub mod wiggle_sort;
+pub use wiggle_sort::wiggle_sort;
