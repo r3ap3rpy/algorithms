@@ -53,6 +53,8 @@ The following algorithms are implemented:
 - heap sort
 - meeting rooms sort
 - merge sort
+- pancake sort
+- pigeonhole sort
 
 ##### Arrays
 

@@ -55,3 +55,6 @@ pub use merge_sort::merge_sort;
 /// The `pancake_sort` algorithm
 pub mod pancake_sort;
 pub use pancake_sort::pancake_sort;
+/// The `pigeonhole_sort` algorithm
+pub mod pigeonhole_sort;
+pub use pigeonhole_sort::pigeonhole_sort;
