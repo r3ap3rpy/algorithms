@@ -52,3 +52,6 @@ pub use meeting_rooms_sort::meeting_rooms_sort;
 /// The `merge_sort` algorithm
 pub mod merge_sort;
 pub use merge_sort::merge_sort;
+/// The `pancake_sort` algorithm
+pub mod pancake_sort;
+pub use pancake_sort::pancake_sort;
