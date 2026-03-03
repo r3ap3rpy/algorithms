@@ -1,0 +1,25 @@
+pub mod bead_sort_tests;
+pub mod bitonic_sort_tests;
+pub mod bogo_sort_tests;
+pub mod bubble_sort_tests;
+pub mod bucket_sort;
+pub mod cocktail_shaker_sort_tests;
+pub mod color_sort_tests;
+pub mod comb_sort_tests;
+pub mod counting_sort_tests;
+pub mod cycle_sort_tests;
+pub mod exchange_sort_tests;
+pub mod gnome_sort_tests;
+pub mod heap_sort_tests;
+pub mod insertion_sort_tests;
+pub mod meeting_rooms_sort_tests;
+pub mod merge_sort_tests;
+pub mod pancake_sort_tests;
+pub mod pigeonhole_sort_tests;
+pub mod quick_sort_tests;
+pub mod radix_sort_tests;
+pub mod selection_sort_tests;
+pub mod shell_sort_tests;
+pub mod stooge_sort_tests;
+pub mod wiggle_sort_tests;
+
