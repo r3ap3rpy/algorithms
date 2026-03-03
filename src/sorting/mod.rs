@@ -58,3 +58,6 @@ pub use pancake_sort::pancake_sort;
 /// The `pigeonhole_sort` algorithm
 pub mod pigeonhole_sort;
 pub use pigeonhole_sort::pigeonhole_sort;
+/// The `radix_sort` algorithm
+pub mod radix_sort;
+pub use radix_sort::radix_sort;
