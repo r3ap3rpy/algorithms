@@ -70,3 +70,6 @@ pub use color_sort::color_sort;
 /// The `wiggle_sort` algorithm
 pub mod wiggle_sort;
 pub use wiggle_sort::wiggle_sort;
+/// The `stooge_sort` algorithm
+pub mod stooge_sort;
+pub use stooge_sort::stooge_sort;
