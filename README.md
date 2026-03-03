@@ -51,6 +51,7 @@ The following algorithms are implemented:
 - exchange sort
 - gnome sort
 - heap sort
+- meeting rooms sort
 
 ##### Arrays
 

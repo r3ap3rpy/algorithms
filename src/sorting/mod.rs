@@ -46,3 +46,6 @@ pub use gnome_sort::gnome_sort;
 /// The `heap_sort` algorithm
 pub mod heap_sort;
 pub use heap_sort::heap_sort;
+/// The `meeting_rooms_sort` algorithm
+pub mod meeting_rooms_sort;
+pub use meeting_rooms_sort::meeting_rooms_sort;
