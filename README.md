@@ -65,6 +65,12 @@ The following algorithms are implemented:
 
 The following algorithms are implemented:
 - flatten
+- delete nth
+- delete nth naive
+##### Set
+
+The following is implemented:
+- find keyboard row
 
 > [!WARNING]
 > This is still in progress.
