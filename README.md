@@ -57,6 +57,7 @@ The following algorithms are implemented:
 - pigeonhole sort
 - radix sort
 - selection sort
+- color sort
 
 ##### Arrays
 

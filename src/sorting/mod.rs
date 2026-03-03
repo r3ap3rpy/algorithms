@@ -64,3 +64,6 @@ pub use radix_sort::radix_sort;
 /// The `selection_sort` algorithm
 pub mod selection_sort;
 pub use selection_sort::selection_sort;
+/// The `color_sort` algorithm
+pub mod color_sort;
+pub use color_sort::color_sort;
