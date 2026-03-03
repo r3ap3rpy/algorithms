@@ -52,6 +52,7 @@ The following algorithms are implemented:
 - gnome sort
 - heap sort
 - meeting rooms sort
+- merge sort
 
 ##### Arrays
 

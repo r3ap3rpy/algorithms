@@ -49,3 +49,6 @@ pub use heap_sort::heap_sort;
 /// The `meeting_rooms_sort` algorithm
 pub mod meeting_rooms_sort;
 pub use meeting_rooms_sort::meeting_rooms_sort;
+/// The `merge_sort` algorithm
+pub mod merge_sort;
+pub use merge_sort::merge_sort;
