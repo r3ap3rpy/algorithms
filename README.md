@@ -67,6 +67,8 @@ The following algorithms are implemented:
 - flatten
 - delete nth
 - delete nth naive
+- garage
+
 ##### Set
 
 The following is implemented:
