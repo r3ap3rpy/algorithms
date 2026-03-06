@@ -13,3 +13,6 @@ pub use delete_nth::delete_nth_naive;
 /// The `garage` algorithm
 pub mod garage;
 pub use garage::garage;
+/// The `josephus` algorithm
+pub mod josephus;
+pub use josephus::Josephus;
