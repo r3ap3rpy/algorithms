@@ -16,3 +16,6 @@ pub use garage::garage;
 /// The `josephus` algorithm
 pub mod josephus;
 pub use josephus::Josephus;
+/// The `limit` algorithm
+pub mod limit;
+pub use limit::limit;

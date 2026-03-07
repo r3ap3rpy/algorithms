@@ -69,6 +69,7 @@ The following algorithms are implemented:
 - delete nth naive
 - garage
 - Josephus
+- limit 
 
 ##### Set
 
