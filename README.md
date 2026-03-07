@@ -70,6 +70,7 @@ The following algorithms are implemented:
 - garage
 - Josephus
 - limit 
+- longest non repeat
 
 ##### Set
 

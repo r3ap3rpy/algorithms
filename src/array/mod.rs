@@ -19,3 +19,6 @@ pub use josephus::Josephus;
 /// The `limit` algorithm
 pub mod limit;
 pub use limit::limit;
+/// The "longest_non_repeat" algorithm
+pub mod longest_non_repeat;
+pub use longest_non_repeat::longest_non_repeat;
