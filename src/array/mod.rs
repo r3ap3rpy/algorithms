@@ -25,3 +25,6 @@ pub use longest_non_repeat::longest_non_repeat;
 /// The `max_ones_index` algorithm
 pub mod max_ones_index;
 pub use max_ones_index::max_ones_index;
+/// The `missing_ranges` algorithm
+pub mod missing_ranges;
+pub use missing_ranges::missing_ranges;

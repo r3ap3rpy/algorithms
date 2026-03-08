@@ -72,6 +72,7 @@ The following algorithms are implemented:
 - limit 
 - longest non repeat
 - max ones index
+- missing ranges
 
 ##### Set
 
