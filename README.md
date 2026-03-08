@@ -71,6 +71,7 @@ The following algorithms are implemented:
 - Josephus
 - limit 
 - longest non repeat
+- max ones index
 
 ##### Set
 
