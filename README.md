@@ -73,6 +73,7 @@ The following algorithms are implemented:
 - longest non repeat
 - max ones index
 - missing ranges
+- move zeros
 
 ##### Set
 

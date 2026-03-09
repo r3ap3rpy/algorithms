@@ -28,3 +28,6 @@ pub use max_ones_index::max_ones_index;
 /// The `missing_ranges` algorithm
 pub mod missing_ranges;
 pub use missing_ranges::missing_ranges;
+/// The `move_zeros` algorithm
+pub mod move_zeros;
+pub use move_zeros::move_zeros;

@@ -1,3 +1,4 @@
+pub mod move_zeros_tests;
 pub mod garage_tests;
 pub mod flatten_array_tests;
 pub mod delete_nth_tests;
