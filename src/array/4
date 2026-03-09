@@ -34,4 +34,3 @@ pub use move_zeros::move_zeros;
 /// The `merge_intervals` algorithm
 pub mod merge_intervals;
 pub use merge_intervals::merge_intervals;
-pub use merge_intervals::Interval;

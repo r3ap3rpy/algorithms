@@ -74,6 +74,7 @@ The following algorithms are implemented:
 - max ones index
 - missing ranges
 - move zeros
+- merge intervals
 
 ##### Set
 
