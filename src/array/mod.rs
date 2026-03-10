@@ -38,3 +38,6 @@ pub use merge_intervals::Interval;
 /// The `plus_one` algorithm
 pub mod plus_one;
 pub use plus_one::plus_one;
+/// The `remove_duplicates` algorithm
+pub mod remove_duplicates;
+pub use remove_duplicates::remove_duplicates;

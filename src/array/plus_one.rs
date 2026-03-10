@@ -18,7 +18,6 @@
 ///     Err(e) => eprintln!("The error was: {}",e),
 ///}
 /// ```
-
 pub fn plus_one(list:&[i32]) -> Result<Vec<i32>,String> {
     if list.is_empty() {
         return Err("Cannot use plus one on an empty list!".to_string());

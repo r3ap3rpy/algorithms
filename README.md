@@ -76,6 +76,7 @@ The following algorithms are implemented:
 - move zeros
 - merge intervals
 - plus one
+- remove duplicates
 
 ##### Set
 
