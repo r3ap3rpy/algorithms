@@ -75,6 +75,7 @@ The following algorithms are implemented:
 - missing ranges
 - move zeros
 - merge intervals
+- plus one
 
 ##### Set
 

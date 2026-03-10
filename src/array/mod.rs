@@ -35,3 +35,6 @@ pub use move_zeros::move_zeros;
 pub mod merge_intervals;
 pub use merge_intervals::merge_intervals;
 pub use merge_intervals::Interval;
+/// The `plus_one` algorithm
+pub mod plus_one;
+pub use plus_one::plus_one;
