@@ -44,3 +44,6 @@ pub use remove_duplicates::remove_duplicates;
 /// The `rotate` algorithm
 pub mod rotate;
 pub use rotate::rotate;
+/// The `summarize_ranges` algorithm
+pub mod summarize_ranges;
+pub use summarize_ranges::summarize_ranges;

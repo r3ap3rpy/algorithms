@@ -78,6 +78,7 @@ The following algorithms are implemented:
 - plus one
 - remove duplicates
 - rotate
+- summarize ranges
 
 ##### Set
 
