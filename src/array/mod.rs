@@ -47,3 +47,6 @@ pub use rotate::rotate;
 /// The `summarize_ranges` algorithm
 pub mod summarize_ranges;
 pub use summarize_ranges::summarize_ranges;
+/// The `three_sum` algorithm
+pub mod three_sum;
+pub use three_sum::three_sum;

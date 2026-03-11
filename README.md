@@ -79,6 +79,7 @@ The following algorithms are implemented:
 - remove duplicates
 - rotate
 - summarize ranges
+- three sum
 
 ##### Set
 
