@@ -77,6 +77,7 @@ The following algorithms are implemented:
 - merge intervals
 - plus one
 - remove duplicates
+- rotate
 
 ##### Set
 

@@ -1,3 +1,4 @@
+pub mod rotate_tests;
 pub mod remove_duplicates_tests;
 pub mod plus_one_tests;
 pub mod merge_intervals_tests;

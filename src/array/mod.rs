@@ -41,3 +41,6 @@ pub use plus_one::plus_one;
 /// The `remove_duplicates` algorithm
 pub mod remove_duplicates;
 pub use remove_duplicates::remove_duplicates;
+/// The `rotate` algorithm
+pub mod rotate;
+pub use rotate::rotate;
