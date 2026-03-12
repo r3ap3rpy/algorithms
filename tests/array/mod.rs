@@ -1,3 +1,4 @@
+pub mod top_1_tests;
 pub mod rotate_tests;
 pub mod summarize_ranges_tests;
 pub mod three_sum_tests;

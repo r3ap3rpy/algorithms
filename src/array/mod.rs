@@ -50,3 +50,6 @@ pub use summarize_ranges::summarize_ranges;
 /// The `three_sum` algorithm
 pub mod three_sum;
 pub use three_sum::three_sum;
+/// The `top_1` algorithm
+pub mod top_1;
+pub use top_1::top_1;

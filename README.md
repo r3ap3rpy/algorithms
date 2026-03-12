@@ -80,6 +80,7 @@ The following algorithms are implemented:
 - rotate
 - summarize ranges
 - three sum
+- top 1
 
 ##### Set
 
