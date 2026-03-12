@@ -56,3 +56,7 @@ pub use top_1::top_1;
 /// The `trimmean` algorithm
 pub mod trimmean;
 pub use trimmean::trimmean;
+/// The `two_sum` algorithm
+pub mod two_sum;
+pub use two_sum::two_sum;
+pub use two_sum::MyResult;

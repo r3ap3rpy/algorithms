@@ -82,6 +82,7 @@ The following algorithms are implemented:
 - three sum
 - top 1
 - trimmean
+- two sum
 
 ##### Set
 
