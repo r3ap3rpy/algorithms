@@ -81,6 +81,7 @@ The following algorithms are implemented:
 - summarize ranges
 - three sum
 - top 1
+- trimmean
 
 ##### Set
 

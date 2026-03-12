@@ -53,3 +53,6 @@ pub use three_sum::three_sum;
 /// The `top_1` algorithm
 pub mod top_1;
 pub use top_1::top_1;
+/// The `trimmean` algorithm
+pub mod trimmean;
+pub use trimmean::trimmean;
