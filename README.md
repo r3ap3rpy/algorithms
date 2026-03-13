@@ -89,6 +89,7 @@ The following algorithms are implemented:
 
 The following is implemented:
 - find keyboard row
+- randomized set
 
 > [!WARNING]
 > This is still in progress.
