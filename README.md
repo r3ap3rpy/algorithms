@@ -83,6 +83,7 @@ The following algorithms are implemented:
 - top 1
 - trimmean
 - two sum
+- n sum
 
 ##### Set
 

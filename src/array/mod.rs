@@ -60,3 +60,6 @@ pub use trimmean::trimmean;
 pub mod two_sum;
 pub use two_sum::two_sum;
 pub use two_sum::MyResult;
+/// The `n_sum` algorithm
+pub mod n_sum;
+pub use n_sum::n_sum;
