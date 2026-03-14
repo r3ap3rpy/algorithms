@@ -8,3 +8,6 @@ pub use find_keyboard_row::find_keyboard_row;
 /// The `randomized_set` algorithm
 pub mod randomized_set;
 pub use randomized_set::RandomizedSet;
+/// The `set_covering` algorithm
+pub mod set_covering;
+pub use set_covering::set_cover;

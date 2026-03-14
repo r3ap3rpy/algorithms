@@ -90,6 +90,7 @@ The following algorithms are implemented:
 The following is implemented:
 - find keyboard row
 - randomized set
+- set covering
 
 > [!WARNING]
 > This is still in progress.
