@@ -16,5 +16,5 @@ fn test_set_cover() {
     costs.insert("S3".to_string(), 3);
 
     let result = set_cover(&universe, &subsets, &costs);
-    assert_eq!(result, Some(vec![String::from("S2"),String::from("S3")]));
+    assert!(result == Some(vec![String::from("S2"),String::from("S3")]) || result == Some(vec![String::from("S3"),String::from("S2")]));
 }

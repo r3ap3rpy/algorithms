@@ -8,3 +8,4 @@
 pub mod sorting;
 pub mod set;
 pub mod array;
+pub mod queue;

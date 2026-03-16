@@ -33,6 +33,10 @@ cd myproject
 cargo add algorithmz
 ```
 
+##### Queue
+- max sliding window
+
+
 ##### Sorting
 
 The following algorithms are implemented:
