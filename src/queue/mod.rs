@@ -5,3 +5,6 @@
 /// The `max_sliding_window` algorithm
 pub mod max_sliding_window;
 pub use max_sliding_window::max_sliding_window;
+/// The `moving_average` algorithm
+pub mod moving_average;
+pub use moving_average::MovingAverage;
