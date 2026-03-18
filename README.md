@@ -37,6 +37,7 @@ cargo add algorithmz
 - max sliding window
 - moving average
 - reconstruct queue
+- zigzagiterator
 
 ##### Sorting
 

@@ -11,3 +11,6 @@ pub use moving_average::MovingAverage;
 /// The `reconstruct_queue` algorithm
 pub mod reconstruct_queue;
 pub use reconstruct_queue::reconstruct_queue;
+/// The `zigzagiterator` algorithm
+pub mod zigzagiterator;
+pub use zigzagiterator::ZigZagIterator;
