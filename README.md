@@ -33,6 +33,9 @@ cd myproject
 cargo add algorithmz
 ```
 
+##### Map
+- is anagram
+
 ##### Queue
 - max sliding window
 - moving average
