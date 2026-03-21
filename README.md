@@ -35,6 +35,7 @@ cargo add algorithmz
 
 ##### Map
 - is anagram
+- is isomorphic
 
 ##### Queue
 - max sliding window
