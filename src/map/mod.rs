@@ -11,3 +11,6 @@ pub use is_isomorphic::is_isomorphic;
 /// The `longest_common_subsequence` algorithm
 pub mod longest_common_subsequence;
 pub use longest_common_subsequence::longest_common_subsequence;
+/// The `longest_palindromic_subsequence` algorithm
+pub mod longest_palindromic_subsequence;
+pub use longest_palindromic_subsequence::longest_palindromic_subsequence;

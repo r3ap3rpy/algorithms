@@ -37,6 +37,7 @@ cargo add algorithmz
 - is anagram
 - is isomorphic
 - longest common subsequence
+- longest palindromic subsequence
 
 ##### Queue
 - max sliding window
