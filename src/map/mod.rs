@@ -17,3 +17,6 @@ pub use longest_palindromic_subsequence::longest_palindromic_subsequence;
 /// The `is_valid_sudoku` algorithm
 pub mod is_valid_sudoku;
 pub use is_valid_sudoku::is_valid_sudoku;
+/// The `word_pattern` algorithm
+pub mod word_pattern;
+pub use word_pattern::word_pattern;

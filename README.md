@@ -39,6 +39,7 @@ cargo add algorithmz
 - longest common subsequence
 - longest palindromic subsequence
 - is valid sudoku
+- word pattern
 
 ##### Queue
 - max sliding window
