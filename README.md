@@ -33,6 +33,9 @@ cd myproject
 cargo add algorithmz
 ```
 
+##### String
+- add binary
+
 ##### Map
 - is anagram
 - is isomorphic
