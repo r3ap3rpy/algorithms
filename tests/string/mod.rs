@@ -1,1 +1,2 @@
+pub mod alphabet_board_path_tests;
 pub mod add_binary_tests;

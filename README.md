@@ -35,6 +35,7 @@ cargo add algorithmz
 
 ##### String
 - add binary
+- alphabet board path
 
 ##### Map
 - is anagram
