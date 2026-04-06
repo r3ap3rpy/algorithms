@@ -1,4 +1,4 @@
-//! #string
+//! `string`
 //!
 //! `string` is a submodule containing algorithms for string manipulation
 

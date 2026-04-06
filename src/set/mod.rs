@@ -1,4 +1,4 @@
-//! # set
+//! `set`
 //!
 //! `set` is a submodule that contains set related algorithms
 

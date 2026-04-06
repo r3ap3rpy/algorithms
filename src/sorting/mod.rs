@@ -1,4 +1,4 @@
-//! # Sorting
+//! `sorting`
 //! `sorting` is a submodule that contains sorting based algorithms.
 
 /// The `bead_sort` algorithm
