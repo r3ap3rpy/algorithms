@@ -36,6 +36,7 @@ cargo add algorithmz
 ##### String
 - add binary
 - alphabet board path
+- atbash cipher
 
 ##### Map
 - is anagram

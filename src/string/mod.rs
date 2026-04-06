@@ -8,3 +8,6 @@ pub use add_binary::add_binary;
 /// The `alphabet_board_path` algorithm
 pub mod alphabet_board_path;
 pub use alphabet_board_path::alphabet_board_path;
+/// The `atbash_cipher` algorithm
+pub mod atbash_cipher;
+pub use atbash_cipher::atbash_cipher;
