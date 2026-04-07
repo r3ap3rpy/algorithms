@@ -11,3 +11,6 @@ pub use alphabet_board_path::alphabet_board_path;
 /// The `atbash_cipher` algorithm
 pub mod atbash_cipher;
 pub use atbash_cipher::atbash_cipher;
+/// The `breaking_bad` algorithm
+pub mod breaking_bad;
+pub use breaking_bad::breaking_bad;
