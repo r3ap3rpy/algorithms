@@ -38,6 +38,7 @@ cargo add algorithmz
 - alphabet board path
 - atbash cipher
 - breaking bad
+- caesar cipher
 
 ##### Map
 - is anagram
