@@ -17,4 +17,6 @@ pub use breaking_bad::breaking_bad;
 /// The `caesar_cipher` algorithm
 pub mod caesar_cipher;
 pub use caesar_cipher::caesar_cipher;
-
+/// The `check_pangram` algorithm
+pub mod check_pangram;
+pub use check_pangram::check_pangram;

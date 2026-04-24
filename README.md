@@ -39,6 +39,7 @@ cargo add algorithmz
 - atbash cipher
 - breaking bad
 - caesar cipher
+- check pangram
 
 ##### Map
 - is anagram
