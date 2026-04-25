@@ -20,3 +20,6 @@ pub use caesar_cipher::caesar_cipher;
 /// The `check_pangram` algorithm
 pub mod check_pangram;
 pub use check_pangram::check_pangram;
+/// The `contain_string` algorithm
+pub mod contain_string;
+pub use contain_string::contain_string;

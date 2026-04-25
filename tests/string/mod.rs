@@ -1,3 +1,4 @@
+pub mod contain_string_tests;
 pub mod check_pangram_tests;
 pub mod caesar_cipher_tests;
 pub mod breaking_bad_tests;
