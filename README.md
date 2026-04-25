@@ -40,6 +40,7 @@ cargo add algorithmz
 - breaking bad
 - caesar cipher
 - check pangram
+- contain string
 
 ##### Map
 - is anagram
