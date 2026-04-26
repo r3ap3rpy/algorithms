@@ -1,3 +1,4 @@
+pub mod decode_string_tests;
 pub mod count_binary_substring_tests;
 pub mod contain_string_tests;
 pub mod check_pangram_tests;

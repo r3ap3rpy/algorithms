@@ -42,6 +42,7 @@ cargo add algorithmz
 - check pangram
 - contain string
 - count binary substring
+- decode string
 
 ##### Map
 - is anagram

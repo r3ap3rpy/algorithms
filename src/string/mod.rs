@@ -26,3 +26,6 @@ pub use contain_string::contain_string;
 /// The `count_binary_substring` algorithm
 pub mod count_binary_substring;
 pub use count_binary_substring::count_binary_substring;
+/// The `decode_string` algorithm
+pub mod decode_string;
+pub use decode_string::decode_string;
