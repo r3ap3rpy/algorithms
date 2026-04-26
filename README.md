@@ -41,6 +41,7 @@ cargo add algorithmz
 - caesar cipher
 - check pangram
 - contain string
+- count binary substring
 
 ##### Map
 - is anagram

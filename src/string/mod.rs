@@ -23,3 +23,6 @@ pub use check_pangram::check_pangram;
 /// The `contain_string` algorithm
 pub mod contain_string;
 pub use contain_string::contain_string;
+/// The `count_binary_substring` algorithm
+pub mod count_binary_substring;
+pub use count_binary_substring::count_binary_substring;
