@@ -32,3 +32,6 @@ pub use decode_string::decode_string;
 /// The `delete_reoccuring` algorithm
 pub mod delete_reoccuring;
 pub use delete_reoccuring::delete_reoccuring;
+/// The `domain_name` algorithm
+pub mod domain_name;
+pub use domain_name::domain_name;

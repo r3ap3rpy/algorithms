@@ -44,6 +44,7 @@ cargo add algorithmz
 - count binary substring
 - decode string
 - delete reoccuring
+- domain name
 
 ##### Map
 - is anagram
