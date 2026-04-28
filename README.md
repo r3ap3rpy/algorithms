@@ -43,6 +43,7 @@ cargo add algorithmz
 - contain string
 - count binary substring
 - decode string
+- delete reoccuring
 
 ##### Map
 - is anagram

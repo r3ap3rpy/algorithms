@@ -29,3 +29,6 @@ pub use count_binary_substring::count_binary_substring;
 /// The `decode_string` algorithm
 pub mod decode_string;
 pub use decode_string::decode_string;
+/// The `delete_reoccuring` algorithm
+pub mod delete_reoccuring;
+pub use delete_reoccuring::delete_reoccuring;

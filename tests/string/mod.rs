@@ -1,3 +1,4 @@
+pub mod delete_reoccuring_tests;
 pub mod decode_string_tests;
 pub mod count_binary_substring_tests;
 pub mod contain_string_tests;
