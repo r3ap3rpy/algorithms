@@ -45,6 +45,7 @@ cargo add algorithmz
 - decode string
 - delete reoccuring
 - domain name
+- encode decode
 
 ##### Map
 - is anagram
