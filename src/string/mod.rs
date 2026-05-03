@@ -42,3 +42,7 @@ pub use encode_decode::decode;
 /// The `first_unique_character` algorithm
 pub mod first_unique_character;
 pub use first_unique_character::first_unique_character;
+/// The `fizzbuzz` algorithm
+pub mod fizzbuzz;
+pub use fizzbuzz::fizzbuzz;
+pub use fizzbuzz::Buzz;

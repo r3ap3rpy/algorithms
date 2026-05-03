@@ -47,6 +47,7 @@ cargo add algorithmz
 - domain name
 - encode decode
 - first unique character
+- fizzbuzz
 
 ##### Map
 - is anagram
