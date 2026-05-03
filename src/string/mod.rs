@@ -39,3 +39,6 @@ pub use domain_name::domain_name;
 pub mod encode_decode;
 pub use encode_decode::encode;
 pub use encode_decode::decode;
+/// The `first_unique_character` algorithm
+pub mod first_unique_character;
+pub use first_unique_character::first_unique_character;

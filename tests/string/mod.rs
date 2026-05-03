@@ -1,3 +1,4 @@
+pub mod first_unique_character_tests;
 pub mod encode_decode_tests;
 pub mod domain_name_tests;
 pub mod delete_reoccuring_tests;
