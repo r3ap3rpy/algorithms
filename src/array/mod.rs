@@ -1,4 +1,4 @@
-//! # array
+//! `array`
 //!
 //! `array` is a submodule that contains array manipulation techniques.
 
