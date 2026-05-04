@@ -48,6 +48,7 @@ cargo add algorithmz
 - encode decode
 - first unique character
 - fizzbuzz
+- group anagrams
 
 ##### Map
 - is anagram

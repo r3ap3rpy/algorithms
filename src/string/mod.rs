@@ -46,3 +46,6 @@ pub use first_unique_character::first_unique_character;
 pub mod fizzbuzz;
 pub use fizzbuzz::fizzbuzz;
 pub use fizzbuzz::Buzz;
+/// The `group_anagrams` algorithm
+pub mod group_anagrams;
+pub use group_anagrams::group_anagrams;
