@@ -49,3 +49,6 @@ pub use fizzbuzz::Buzz;
 /// The `group_anagrams` algorithm
 pub mod group_anagrams;
 pub use group_anagrams::group_anagrams;
+/// The `int_to_roman` algorithm
+pub mod int_to_roman;
+pub use int_to_roman::int_to_roman;

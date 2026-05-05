@@ -49,6 +49,7 @@ cargo add algorithmz
 - first unique character
 - fizzbuzz
 - group anagrams
+- int to romans
 
 ##### Map
 - is anagram
