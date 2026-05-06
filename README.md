@@ -51,6 +51,7 @@ cargo add algorithmz
 - group anagrams
 - int to romans
 - is palindrome
+- is rotated
 
 ##### Map
 - is anagram

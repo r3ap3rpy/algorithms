@@ -55,3 +55,6 @@ pub use int_to_roman::int_to_roman;
 /// The `is_palindrome` algorithm
 pub mod is_palindrome;
 pub use is_palindrome::is_palindrome;
+/// The `is_rotated` algorithm
+pub mod is_rotated;
+pub use is_rotated::is_rotated;
