@@ -50,6 +50,7 @@ cargo add algorithmz
 - fizzbuzz
 - group anagrams
 - int to romans
+- is palindrome
 
 ##### Map
 - is anagram

@@ -1,3 +1,4 @@
+pub mod is_palindrome_tests;
 pub mod int_to_romans_tests;
 pub mod group_anagrams_tests;
 pub mod fizzbuzz_tests;

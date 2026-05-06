@@ -52,3 +52,6 @@ pub use group_anagrams::group_anagrams;
 /// The `int_to_roman` algorithm
 pub mod int_to_roman;
 pub use int_to_roman::int_to_roman;
+/// The `is_palindrome` algorithm
+pub mod is_palindrome;
+pub use is_palindrome::is_palindrome;
