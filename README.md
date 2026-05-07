@@ -53,6 +53,7 @@ cargo add algorithmz
 - is palindrome
 - is rotated
 - judge circle
+- knuth morris pratt
 
 ##### Map
 - is anagram

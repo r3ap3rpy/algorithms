@@ -61,4 +61,6 @@ pub use is_rotated::is_rotated;
 /// The `judge_circle` algorithm
 pub mod judge_circle;
 pub use judge_circle::judge_circle;
-
+/// The `knuth_morris_pratt` algorithm
+pub mod knuth_morris_pratt;
+pub use knuth_morris_pratt::knuth_morris_pratt;

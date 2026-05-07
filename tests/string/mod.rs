@@ -1,3 +1,4 @@
+pub mod knuth_morris_pratt_tests;
 pub mod judge_circle_tests;
 pub mod is_rotated_tests;
 pub mod is_palindrome_tests;
