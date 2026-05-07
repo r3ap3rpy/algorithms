@@ -58,3 +58,7 @@ pub use is_palindrome::is_palindrome;
 /// The `is_rotated` algorithm
 pub mod is_rotated;
 pub use is_rotated::is_rotated;
+/// The `judge_circle` algorithm
+pub mod judge_circle;
+pub use judge_circle::judge_circle;
+

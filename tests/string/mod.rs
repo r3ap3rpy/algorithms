@@ -1,3 +1,4 @@
+pub mod judge_circle_tests;
 pub mod is_rotated_tests;
 pub mod is_palindrome_tests;
 pub mod int_to_romans_tests;

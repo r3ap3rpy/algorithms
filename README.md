@@ -52,6 +52,7 @@ cargo add algorithmz
 - int to romans
 - is palindrome
 - is rotated
+- judge circle
 
 ##### Map
 - is anagram
