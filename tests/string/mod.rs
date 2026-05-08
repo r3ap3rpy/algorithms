@@ -1,3 +1,4 @@
+pub mod license_number_tests;
 pub mod knuth_morris_pratt_tests;
 pub mod judge_circle_tests;
 pub mod is_rotated_tests;

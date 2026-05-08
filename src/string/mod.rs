@@ -64,3 +64,6 @@ pub use judge_circle::judge_circle;
 /// The `knuth_morris_pratt` algorithm
 pub mod knuth_morris_pratt;
 pub use knuth_morris_pratt::knuth_morris_pratt;
+/// The `license_number` algorithm
+pub mod license_number;
+pub use license_number::license_number;

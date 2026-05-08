@@ -54,6 +54,7 @@ cargo add algorithmz
 - is rotated
 - judge circle
 - knuth morris pratt
+- license number
 
 ##### Map
 - is anagram
