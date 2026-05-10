@@ -55,6 +55,7 @@ cargo add algorithmz
 - judge circle
 - knuth morris pratt
 - license number
+- longest common prefix
 
 ##### Map
 - is anagram

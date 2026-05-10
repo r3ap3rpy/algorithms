@@ -67,3 +67,6 @@ pub use knuth_morris_pratt::knuth_morris_pratt;
 /// The `license_number` algorithm
 pub mod license_number;
 pub use license_number::license_number;
+/// The `longest_common_prefix` algorithm
+pub mod longest_common_prefix;
+pub use longest_common_prefix::longest_common_prefix;
