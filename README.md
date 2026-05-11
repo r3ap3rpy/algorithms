@@ -56,6 +56,7 @@ cargo add algorithmz
 - knuth morris pratt
 - license number
 - longest common prefix
+- longest palindromic substring
 
 ##### Map
 - is anagram

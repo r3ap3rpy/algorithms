@@ -70,3 +70,6 @@ pub use license_number::license_number;
 /// The `longest_common_prefix` algorithm
 pub mod longest_common_prefix;
 pub use longest_common_prefix::longest_common_prefix;
+/// The `longest_palindromic_substring` algorithm
+pub mod longest_palindromic_substring;
+pub use longest_palindromic_substring::longest_palindromic_substring;

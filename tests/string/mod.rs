@@ -1,3 +1,4 @@
+pub mod longest_palindromic_substring_tests;
 pub mod longest_common_prefix_tests;
 pub mod license_number_tests;
 pub mod knuth_morris_pratt_tests;
