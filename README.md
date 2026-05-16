@@ -57,6 +57,7 @@ cargo add algorithmz
 - license number
 - longest common prefix
 - longest palindromic substring
+- make sentence
 
 ##### Map
 - is anagram

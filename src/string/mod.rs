@@ -73,3 +73,6 @@ pub use longest_common_prefix::longest_common_prefix;
 /// The `longest_palindromic_substring` algorithm
 pub mod longest_palindromic_substring;
 pub use longest_palindromic_substring::longest_palindromic_substring;
+/// The `make_sentence` algorithm
+pub mod make_sentence;
+pub use make_sentence::make_sentence;
