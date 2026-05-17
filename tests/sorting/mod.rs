@@ -1,3 +1,4 @@
+pub mod manarcher_tests;
 pub mod bead_sort_tests;
 pub mod bitonic_sort_tests;
 pub mod bogo_sort_tests;

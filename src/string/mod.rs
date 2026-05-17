@@ -76,3 +76,6 @@ pub use longest_palindromic_substring::longest_palindromic_substring;
 /// The `make_sentence` algorithm
 pub mod make_sentence;
 pub use make_sentence::make_sentence;
+/// The `manarcher` algorithm
+pub mod manarcher;
+pub use manarcher::manarcher;
