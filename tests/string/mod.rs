@@ -1,3 +1,4 @@
+pub mod merge_string_checker_tests;
 pub mod make_sentence_tests;
 pub mod longest_palindromic_substring_tests;
 pub mod longest_common_prefix_tests;

@@ -59,6 +59,7 @@ cargo add algorithmz
 - longest palindromic substring
 - make sentence
 - manarcher
+- merge string checker
 
 ##### Map
 - is anagram

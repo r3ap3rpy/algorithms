@@ -79,3 +79,6 @@ pub use make_sentence::make_sentence;
 /// The `manarcher` algorithm
 pub mod manarcher;
 pub use manarcher::manarcher;
+/// The `merge_string_checker` algorithm
+pub mod merge_string_checker;
+pub use merge_string_checker::merge_string_checker;
