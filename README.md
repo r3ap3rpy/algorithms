@@ -60,6 +60,7 @@ cargo add algorithmz
 - make sentence
 - manarcher
 - merge string checker
+- min distance
 
 ##### Map
 - is anagram

@@ -82,3 +82,7 @@ pub use manarcher::manarcher;
 /// The `merge_string_checker` algorithm
 pub mod merge_string_checker;
 pub use merge_string_checker::merge_string_checker;
+/// The `min_distance` algorithm
+pub mod min_distance;
+pub use min_distance::min_distance;
+
