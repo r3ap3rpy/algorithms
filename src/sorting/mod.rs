@@ -74,3 +74,4 @@ pub use wiggle_sort::wiggle_sort;
 /// The `stooge_sort` algorithm
 pub mod stooge_sort;
 pub use stooge_sort::stooge_sort;
+

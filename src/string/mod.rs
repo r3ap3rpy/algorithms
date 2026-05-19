@@ -85,4 +85,7 @@ pub use merge_string_checker::merge_string_checker;
 /// The `min_distance` algorithm
 pub mod min_distance;
 pub use min_distance::min_distance;
+/// The `multiply_strings` algorithm
+pub mod multiply_strings;
+pub use multiply_strings::multiply_strings;
 

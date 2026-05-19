@@ -61,6 +61,7 @@ cargo add algorithmz
 - manarcher
 - merge string checker
 - min distance
+- multiply strings
 
 ##### Map
 - is anagram
