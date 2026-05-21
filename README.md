@@ -63,6 +63,7 @@ cargo add algorithmz
 - min distance
 - multiply strings
 - is one edit
+- panagram
 
 ##### Map
 - is anagram

@@ -1,3 +1,4 @@
+pub mod panagram_tests;
 pub mod is_one_edit_tests;
 pub mod min_distance_tests;
 pub mod merge_string_checker_tests;
