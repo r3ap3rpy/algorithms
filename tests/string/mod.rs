@@ -1,3 +1,4 @@
+pub mod is_one_edit_tests;
 pub mod min_distance_tests;
 pub mod merge_string_checker_tests;
 pub mod make_sentence_tests;

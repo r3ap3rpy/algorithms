@@ -88,4 +88,7 @@ pub use min_distance::min_distance;
 /// The `multiply_strings` algorithm
 pub mod multiply_strings;
 pub use multiply_strings::multiply_strings;
+/// The `is_one_edit` algorithm
+pub mod is_one_edit;
+pub use is_one_edit::is_one_edit;
 

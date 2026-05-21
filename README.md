@@ -62,6 +62,7 @@ cargo add algorithmz
 - merge string checker
 - min distance
 - multiply strings
+- is one edit
 
 ##### Map
 - is anagram
