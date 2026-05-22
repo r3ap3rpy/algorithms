@@ -64,6 +64,7 @@ cargo add algorithmz
 - multiply strings
 - is one edit
 - panagram
+- rabin karp
 
 ##### Map
 - is anagram

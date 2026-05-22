@@ -94,3 +94,6 @@ pub use is_one_edit::is_one_edit;
 /// The `panagram` algorithm
 pub mod panagram;
 pub use panagram::panagram;
+/// The `rabin_karp` algorithm
+pub mod rabin_karp;
+pub use rabin_karp::{rabin_karp,RollingHash};
