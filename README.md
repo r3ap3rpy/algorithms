@@ -73,6 +73,7 @@ cargo add algorithmz
 - longest palindromic subsequence
 - is valid sudoku
 - word pattern
+- repeat string
 
 ##### Queue
 - max sliding window
