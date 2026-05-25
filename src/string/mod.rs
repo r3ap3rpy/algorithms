@@ -100,3 +100,6 @@ pub use rabin_karp::{rabin_karp,RollingHash};
 /// The `repeat_string` algorithm
 pub mod repeat_string;
 pub use repeat_string::repeat_string;
+/// The `repeat_substring` algorithm
+pub mod repeat_substring;
+pub use repeat_substring::repeat_substring;

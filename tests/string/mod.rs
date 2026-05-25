@@ -1,3 +1,4 @@
+pub mod repeat_substring_tests;
 pub mod repeat_string_tests;
 pub mod rabin_karp_tests;
 pub mod panagram_tests;
