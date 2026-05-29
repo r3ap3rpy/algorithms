@@ -103,3 +103,7 @@ pub use repeat_string::repeat_string;
 /// The `repeat_substring` algorithm
 pub mod repeat_substring;
 pub use repeat_substring::repeat_substring;
+/// The `reverse_string` algorithm
+pub mod reverse_string;
+pub use reverse_string::reverse_string;
+

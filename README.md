@@ -66,6 +66,7 @@ cargo add algorithmz
 - panagram
 - rabin karp
 - repeat substring
+- reverse string
 
 ##### Map
 - is anagram
