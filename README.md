@@ -67,6 +67,7 @@ cargo add algorithmz
 - rabin karp
 - repeat substring
 - reverse string
+- reverse vowels
 
 ##### Map
 - is anagram

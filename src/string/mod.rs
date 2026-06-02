@@ -106,4 +106,7 @@ pub use repeat_substring::repeat_substring;
 /// The `reverse_string` algorithm
 pub mod reverse_string;
 pub use reverse_string::reverse_string;
+/// The `reverse_vowel` algorithm
+pub mod reverse_vowels;
+pub use reverse_vowels::reverse_vowels;
 
