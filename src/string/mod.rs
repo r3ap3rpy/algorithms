@@ -109,4 +109,7 @@ pub use reverse_string::reverse_string;
 /// The `reverse_vowel` algorithm
 pub mod reverse_vowels;
 pub use reverse_vowels::reverse_vowels;
+/// The `reverse_words` algorithm
+pub mod reverse_words;
+pub use reverse_words::reverse_words;
 

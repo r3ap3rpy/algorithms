@@ -68,6 +68,7 @@ cargo add algorithmz
 - repeat substring
 - reverse string
 - reverse vowels
+- reverse words
 
 ##### Map
 - is anagram
