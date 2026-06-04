@@ -1,3 +1,4 @@
+pub mod roman_to_int_tests;
 pub mod reverse_words_tests;
 pub mod reverse_vowels_tests;
 pub mod reverse_string_tests;

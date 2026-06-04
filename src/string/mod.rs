@@ -112,4 +112,6 @@ pub use reverse_vowels::reverse_vowels;
 /// The `reverse_words` algorithm
 pub mod reverse_words;
 pub use reverse_words::reverse_words;
-
+/// The `roman_to_int` algorithm
+pub mod roman_to_int;
+pub use roman_to_int::roman_to_int;
