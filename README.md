@@ -70,6 +70,7 @@ cargo add algorithmz
 - reverse vowels
 - reverse words
 - roman to int
+- rotate
 
 ##### Map
 - is anagram

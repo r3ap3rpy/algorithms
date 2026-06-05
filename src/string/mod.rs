@@ -115,3 +115,6 @@ pub use reverse_words::reverse_words;
 /// The `roman_to_int` algorithm
 pub mod roman_to_int;
 pub use roman_to_int::roman_to_int;
+/// The `rotate` algorithm
+pub mod rotate;
+pub use rotate::rotate;
