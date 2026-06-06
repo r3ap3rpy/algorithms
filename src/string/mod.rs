@@ -118,3 +118,6 @@ pub use roman_to_int::roman_to_int;
 /// The `rotate` algorithm
 pub mod rotate;
 pub use rotate::rotate;
+/// The `strip_url_params` algorithm
+pub mod strip_url_params;
+pub use strip_url_params::strip_url_params;

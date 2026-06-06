@@ -71,6 +71,7 @@ cargo add algorithmz
 - reverse words
 - roman to int
 - rotate
+- strip url params
 
 ##### Map
 - is anagram
