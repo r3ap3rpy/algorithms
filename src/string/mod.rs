@@ -121,3 +121,6 @@ pub use rotate::rotate;
 /// The `strip_url_params` algorithm
 pub mod strip_url_params;
 pub use strip_url_params::strip_url_params;
+/// The `strong_password` algorithm
+pub mod strong_password;
+pub use strong_password::strong_password;

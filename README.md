@@ -72,6 +72,7 @@ cargo add algorithmz
 - roman to int
 - rotate
 - strip url params
+- strong password
 
 ##### Map
 - is anagram

@@ -1,3 +1,4 @@
+pub mod strong_password_tests;
 pub mod strip_url_params_tests;
 pub mod rotate_tests;
 pub mod roman_to_int_tests;
