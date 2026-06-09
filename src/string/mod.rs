@@ -124,3 +124,6 @@ pub use strip_url_params::strip_url_params;
 /// The `strong_password` algorithm
 pub mod strong_password;
 pub use strong_password::strong_password;
+/// The `swap_characters` algorithm
+pub mod swap_characters;
+pub use swap_characters::swap_characters;

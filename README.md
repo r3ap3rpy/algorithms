@@ -73,6 +73,7 @@ cargo add algorithmz
 - rotate
 - strip url params
 - strong password
+- swap characters
 
 ##### Map
 - is anagram
