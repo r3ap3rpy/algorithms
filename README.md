@@ -74,6 +74,7 @@ cargo add algorithmz
 - strip url params
 - strong password
 - swap characters
+- text justification
 
 ##### Map
 - is anagram

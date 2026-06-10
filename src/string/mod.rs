@@ -127,3 +127,6 @@ pub use strong_password::strong_password;
 /// The `swap_characters` algorithm
 pub mod swap_characters;
 pub use swap_characters::swap_characters;
+/// The `text_justification` algorithm
+pub mod text_justification;
+pub use text_justification::text_justification;

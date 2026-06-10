@@ -1,3 +1,4 @@
+pub mod text_justification_tests;
 pub mod swap_characters_tests;
 pub mod strong_password_tests;
 pub mod strip_url_params_tests;
