@@ -133,3 +133,6 @@ pub use text_justification::text_justification;
 /// The `convert_morse` algorithm
 pub mod convert_morse;
 pub use convert_morse::convert_morse;
+/// The `validate_coordinates` algorithm
+pub mod validate_coordinates;
+pub use validate_coordinates::validate_coordinates;

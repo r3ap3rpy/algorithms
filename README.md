@@ -76,6 +76,7 @@ cargo add algorithmz
 - swap characters
 - text justification
 - convert morse 
+- validate coordinates
 
 ##### Map
 - is anagram
