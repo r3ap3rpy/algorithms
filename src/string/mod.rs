@@ -130,3 +130,6 @@ pub use swap_characters::swap_characters;
 /// The `text_justification` algorithm
 pub mod text_justification;
 pub use text_justification::text_justification;
+/// The `convert_morse` algorithm
+pub mod convert_morse;
+pub use convert_morse::convert_morse;

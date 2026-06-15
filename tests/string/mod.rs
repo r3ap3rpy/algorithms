@@ -1,3 +1,4 @@
+pub mod convert_morse_tests;
 pub mod text_justification_tests;
 pub mod swap_characters_tests;
 pub mod strong_password_tests;

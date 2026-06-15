@@ -75,6 +75,7 @@ cargo add algorithmz
 - strong password
 - swap characters
 - text justification
+- convert morse 
 
 ##### Map
 - is anagram
