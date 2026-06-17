@@ -1,3 +1,4 @@
+pub mod word_squares_tests;
 pub mod validate_coordinates_tests;
 pub mod convert_morse_tests;
 pub mod text_justification_tests;

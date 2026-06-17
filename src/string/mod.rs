@@ -136,3 +136,6 @@ pub use convert_morse::convert_morse;
 /// The `validate_coordinates` algorithm
 pub mod validate_coordinates;
 pub use validate_coordinates::validate_coordinates;
+/// The `word_squares` aglorithm
+pub mod word_squares;
+pub use word_squares::word_squares;

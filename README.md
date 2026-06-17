@@ -77,6 +77,7 @@ cargo add algorithmz
 - text justification
 - convert morse 
 - validate coordinates
+- word squares
 
 ##### Map
 - is anagram
