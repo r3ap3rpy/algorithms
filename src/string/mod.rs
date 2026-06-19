@@ -139,3 +139,6 @@ pub use validate_coordinates::validate_coordinates;
 /// The `word_squares` aglorithm
 pub mod word_squares;
 pub use word_squares::word_squares;
+/// The `z_algorithm` algorithm
+pub mod z_algorithm;
+pub use z_algorithm::z_algorithm;

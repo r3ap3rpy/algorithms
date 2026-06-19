@@ -78,6 +78,7 @@ cargo add algorithmz
 - convert morse 
 - validate coordinates
 - word squares
+- z_algorithm
 
 ##### Map
 - is anagram
