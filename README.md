@@ -35,6 +35,7 @@ cargo add algorithmz
 
 ##### Stack
 - is_consecutive
+- is_sorted
 
 ##### String
 - add binary
