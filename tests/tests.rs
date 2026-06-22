@@ -1,3 +1,4 @@
+mod stack;
 mod string;
 mod map;
 mod queue;

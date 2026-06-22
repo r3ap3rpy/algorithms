@@ -10,3 +10,4 @@ pub mod set;
 pub mod array;
 pub mod queue;
 pub mod string;
+pub mod stack;

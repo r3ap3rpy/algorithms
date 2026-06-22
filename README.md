@@ -33,6 +33,9 @@ cd myproject
 cargo add algorithmz
 ```
 
+##### Stack
+- is_consecutive
+
 ##### String
 - add binary
 - alphabet board path
