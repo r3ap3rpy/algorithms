@@ -8,4 +8,6 @@ pub use is_consecutive::is_consecutive;
 /// The `is_sorted` algorithm
 pub mod is_sorted;
 pub use is_sorted::is_sorted;
-
+/// The `longest_path` algorithm
+pub mod longest_path;
+pub use longest_path::longest_path;
