@@ -36,6 +36,7 @@ cargo add algorithmz
 ##### Stack
 - is_consecutive
 - is_sorted
+- longest_path
 
 ##### String
 - add binary
