@@ -14,3 +14,6 @@ pub use longest_path::longest_path;
 /// The `OrderedStack` implementation
 pub mod ordered_stack;
 pub use ordered_stack::OrderedStack;
+/// The `remove_min` algorithm
+pub mod remove_min;
+pub use remove_min::remove_min;
