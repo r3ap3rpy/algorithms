@@ -17,3 +17,6 @@ pub use ordered_stack::OrderedStack;
 /// The `remove_min` algorithm
 pub mod remove_min;
 pub use remove_min::remove_min;
+/// The `simplify_path` algorithm
+pub mod simplify_path;
+pub use simplify_path::simplify_path;

@@ -39,6 +39,7 @@ cargo add algorithmz
 - longest_path
 - ordered stack
 - remove_min
+- simplify_path
 
 ##### String
 - add binary
