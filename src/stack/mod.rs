@@ -23,3 +23,6 @@ pub use simplify_path::simplify_path;
 /// The `slutter` algorithm
 pub mod slutter;
 pub use slutter::slutter;
+/// The `switch_pairs` algorithm
+pub mod switch_pairs;
+pub use switch_pairs::switch_pairs;

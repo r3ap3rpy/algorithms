@@ -41,6 +41,7 @@ cargo add algorithmz
 - remove_min
 - simplify_path
 - slutter
+- switch_pairs
 
 ##### String
 - add binary
