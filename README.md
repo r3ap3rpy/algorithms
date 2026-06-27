@@ -33,6 +33,9 @@ cd myproject
 cargo add algorithmz
 ```
 
+##### Linked List
+- add_two_numbers
+
 ##### Stack
 - is_consecutive
 - is_sorted

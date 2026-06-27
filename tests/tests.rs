@@ -1,3 +1,4 @@
+mod linked_list;
 mod stack;
 mod string;
 mod map;
