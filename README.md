@@ -42,6 +42,7 @@ cargo add algorithmz
 - simplify_path
 - slutter
 - switch_pairs
+- valid_parenthesis
 
 ##### String
 - add binary

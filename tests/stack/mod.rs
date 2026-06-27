@@ -1,3 +1,4 @@
+pub mod valid_parenthesis_tests;
 pub mod switch_pairs_tests;
 pub mod slutter_tests;
 pub mod simplify_path_tests;

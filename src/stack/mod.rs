@@ -26,3 +26,6 @@ pub use slutter::slutter;
 /// The `switch_pairs` algorithm
 pub mod switch_pairs;
 pub use switch_pairs::switch_pairs;
+/// The `valid_parenthesis` algorithm
+pub mod valid_parenthesis;
+pub use valid_parenthesis::valid_parenthesis;
