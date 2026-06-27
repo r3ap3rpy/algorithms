@@ -1,3 +1,4 @@
+pub mod slutter_tests;
 pub mod simplify_path_tests;
 pub mod remove_min_tests;
 pub mod ordered_stack_tests;

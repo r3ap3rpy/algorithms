@@ -20,3 +20,6 @@ pub use remove_min::remove_min;
 /// The `simplify_path` algorithm
 pub mod simplify_path;
 pub use simplify_path::simplify_path;
+/// The `slutter` algorithm
+pub mod slutter;
+pub use slutter::slutter;

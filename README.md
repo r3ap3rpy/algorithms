@@ -40,6 +40,7 @@ cargo add algorithmz
 - ordered stack
 - remove_min
 - simplify_path
+- slutter
 
 ##### String
 - add binary
