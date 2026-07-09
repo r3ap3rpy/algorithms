@@ -36,6 +36,7 @@ cargo add algorithmz
 ##### Linked List
 - add_two_numbers
 - copy_random_pointer
+- delete_node
 
 ##### Stack
 - is_consecutive
